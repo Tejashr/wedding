@@ -10,8 +10,8 @@ function App() {
 
         {/* <h4 className="save-the-date">Save the Date</h4> */}
         <div className="event-dates">
-          <p className="event">Reception: May 18, 8 PM</p>
-          <p className="event">Marriage: May 19, 10 AM</p>
+          <p className="event">Reception: May 18, 7 PM</p>
+          <p className="event">Marriage: May 19, 10:30 AM</p>
         </div>
         <div className="map-link">
           <a
